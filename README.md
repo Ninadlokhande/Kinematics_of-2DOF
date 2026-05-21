@@ -1,6 +1,7 @@
 # 2-DOF Robotic Manipulator using Arduino
 
-![2DOF Robot](hardware/robot_photo.jpg)
+![2DOF Robot](<img width="960" height="1280" alt="img1" src="https://github.com/user-attachments/assets/49d47758-cc2c-4348-a010-5e4216d48dcc" />
+)
 
 ## Overview
 
